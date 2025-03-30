@@ -20,6 +20,10 @@ mvn spring-boot:run
 ```
 
 ## Swagger Documentation
-The Swagger documentation can be found after the project is running in the url http://localhost:8080/swagger-ui/index.html
+The Swagger documentation can be found at http://localhost:8080/swagger-ui/index.html
+## RabbitMQ
+RabbitMQ dashboard can be found at http://localhost:15672/
 
-Obs: Credentials are hardcoded for simplicity
+Considerations:
+- Credentials are hardcoded for simplicity
+  
